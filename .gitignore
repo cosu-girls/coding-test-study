@@ -1,0 +1,15 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# macOS
+.DS_Store
