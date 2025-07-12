@@ -18,5 +18,5 @@
 - 스택, 큐
 - 그리디
 
-[pr-shield]: https://img.shields.io/github/issues-pr/Study-CodingTest/Study?style=for-the-badge
+[pr-shield]: https://img.shields.io/github/issues-pr/cosu-girls/coding-test-study?style=for-the-badge
 [pr-url]: https://github.com/cosu-girls/coding-test-study/pulls
